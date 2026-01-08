@@ -18,5 +18,5 @@ Change it to make it unique, maybe replace the word FORD to your name or initial
 12. The file to upload is part of the repository you cloned. Browse the Folders and select vins.txt, this file should become visible under notebook name. Notebook uses this file for referential integrity between tables.
 
 
-This is all you are set to Run All or run the cells one by one.
+You are all set to Run All or run the cells one by one.
 
