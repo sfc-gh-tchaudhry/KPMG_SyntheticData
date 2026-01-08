@@ -10,7 +10,7 @@ This lab will require a Warehouse. Creating one beforehand is best.
 
 Press CREATE
 
-9. The first two cell types needs to be updated to SQL type. Use the drop down in the top left of the cell that should be showing "Pyhton", Select SQL instead - do this for the first two cells.
+9. The first two cell types needs to be updated to SQL type. Use the drop down in the top left of the cell that should be showing "Python", Select SQL instead - do this for the first two cells.
 10. In the first cell locat the line that says 
 SET DATABASE_NAME = 'FORD_AUTOMOTIVE_DB' 
 Change it to make it unique, maybe replace the word FORD to your name or initials
